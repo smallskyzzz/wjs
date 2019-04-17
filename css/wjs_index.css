@@ -74,4 +74,23 @@
 .wjs_nav .navbar-toggle {
   margin-top: 23px;
 }
+/*轮播图样式*/
+.wjs_banner .mobileImg {
+  width: 100%;
+  display: block;
+}
+.wjs_banner .mobileImg > img {
+  width: 100%;
+  display: block;
+}
+.wjs_banner .pcImg {
+  width: 100%;
+  height: 410px;
+  display: block;
+  /*设置背景图片了*/
+  /*设置图片居中显示*/
+  background-position: center center;
+  /*设置背景图片的大小*/
+  background-size: cover;
+}
 /*# sourceMappingURL=wjs_index.css.map */
